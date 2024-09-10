@@ -3,3 +3,6 @@ def print_hello():
 
 if __name__ == '__mian__':
 	print_hello()
+
+def print_KIT():
+	print("Kumoh National Institue of Technology.")
